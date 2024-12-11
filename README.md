@@ -7,3 +7,6 @@
 
 [How to improve the reproducibility of dorado across different GPUs?](https://github.com/nanoporetech/dorado/issues/617)
 * different architectures of GPU might have different base calling
+
+[K14 Duplex](https://nanoporetech.com/document/kit-14-device-and-informatics)
+* Duplex information
