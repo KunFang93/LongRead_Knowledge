@@ -10,3 +10,5 @@
 
 [K14 Duplex](https://nanoporetech.com/document/kit-14-device-and-informatics)
 * Duplex information
+
+[Modkit filter-threshold vs mod-threshold](https://github.com/nanoporetech/modkit/issues/271)
