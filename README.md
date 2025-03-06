@@ -12,3 +12,5 @@
 * Duplex information
 
 [Modkit filter-threshold vs mod-threshold](https://github.com/nanoporetech/modkit/issues/271)
+
+[Combine Bonito npy](https://github.com/nanoporetech/bonito/issues/72)
