@@ -18,3 +18,6 @@
 
 [Bonito high memory demand](https://github.com/nanoporetech/bonito/issues/386)
 * This is because generating training data with --save-ctc, the chunks are simply accumulated in memory and serialised once at the end of the run
+
+[Sequence Identity](https://lh3.github.io/2018/11/25/on-the-definition-of-sequence-identity)
+* Four different methods to calculate sequence identity
