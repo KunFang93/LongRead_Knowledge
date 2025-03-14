@@ -21,3 +21,6 @@
 
 [Sequence Identity](https://lh3.github.io/2018/11/25/on-the-definition-of-sequence-identity)
 * Four different methods to calculate sequence identity
+
+[Simplex reads filtered](https://github.com/nanoporetech/dorado/issues/1287)
+* explained why dorado generate more reads than pod5 view 
