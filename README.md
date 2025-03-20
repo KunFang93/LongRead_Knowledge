@@ -25,5 +25,5 @@
 [Simplex reads filtered](https://github.com/nanoporetech/dorado/issues/1287)
 * explained why dorado generate more reads than pod5 view 
 
-[remora training](Question about remora training)
-* information for remora
+[remora training](https://github.com/nanoporetech/remora/issues/200)
+* information for remora traini
